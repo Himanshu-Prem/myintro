@@ -1,0 +1,34 @@
+
+#navbar{
+    flex-direction: column;
+}
+#logo img{
+    height: 560%;
+    width: 15%;
+    border: 2px solid white;
+    margin: 2% 46% 3% 40%;
+    border-radius: 91px;
+}
+#info{
+    
+    width: 64%;
+    
+  }
+.section{
+    margin: 1% 5%;
+    font-size: 1.5em;
+    list-style: none;
+    cursor: pointer;
+    font-family: 'Kanit', sans-serif;
+}
+.projects{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.skills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

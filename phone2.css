@@ -1,0 +1,15 @@
+#home{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+}
+#home img{
+    margin: 2% 20%;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
